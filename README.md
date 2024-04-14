@@ -9,20 +9,3 @@
   <img src="https://i.imgur.com/H6zM28r.png" alt="Hacking Logo"/>
 </p>
 
-## cypherdavy's Github Stats
-
-```python
-import pygithub
-
-access_token = "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="
-g = pygithub.Github(access_token)
-
-user = g.get_user("cypherdavy")
-
-repos = user.get_repos()
-
-print("**cypherdavy's github stats**\n")
-print("**Top Langs**\n")
-
-for repo in repos:
-    print(f"- {repo.name}\n")
