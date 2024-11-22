@@ -1,56 +1,83 @@
-<br clear="both">
-
-<h1 align="center">Cipherdavy.exe</h1>
-
-###
+<h1 align="center">Hello, I'm David P.S. Abraham (aka CipherDavy) 👋</h1>
+<h3 align="center">Ethical Hacker | Bug Bounty Hunter | Cybersecurity Enthusiast</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cypherdavy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cypherdavy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif?cid=ecf05e47u9i1t1go38c5yk46kdaul2jdw2tusiqk759hkflu&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif?cid=790b7611zflxae4sfzwktfo5mnqremqqwdliekqze6hy66c9&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+<div align="center">
+  <a href="https://github.com/cypherdavy">
+    <img src="https://github-readme-stats.vercel.app/api?username=cypherdavy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cypherdavy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  </a>
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https://youtube.com/@Davycipher?si=Zs21pUgsEBG2iWpg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+
+[Visit my TryHackMe profile](https://tryhackme.com/p/davycypher)
+
+
+
+### 👨‍💻 About Me
+- 🎓 **Education**: Bachelor of Computer Applications (BCA) from Bangalore North University.
+- 🌐 **Website**: [davycipher.online](https://davycipher.online)
+- 🛡️ **Founder**: [Hexploit](https://davycipher.online), a cybersecurity-focused community.
+- 🐛 **Bug Bounty Hunter**: 20+ Hall of Fame entries in October 2024.  
+- 💼 **Partner**: E-commerce Business Team.
+
+---
+
+### 🏆 Achievements
+
+- 🏅 **Bug Bounties**: Hall of Fame entries with NASA, Cisco, and OLX.
+- 💡 Developed tools like **Fang** for subdomain enumeration.
+- 🛠️ Built [WatchTower](https://github.com/cypherdavy/watch_tower) for advanced automated bug bounty operations.
+- 🎯 Hosted Capture The Flag (CTF) events with innovative themes and challenges.
+- 📜 **Indian Book of Records**: Recognized for achieving 20+ Hall of Fame entries on Bugcrowd in October 2024.
+
+
+
+---
+
+### 🔧 Skills & Tools
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
+</div>
+
+---
+
+### 🌐 Social Links
+
+<div>
+  <a href="https://linkedin.com/in/davy-cypher" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/davycipher/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="davycypher@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://youtube.com/@Davycipher" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
+  <a href="mailto:davycypher@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/cypherdavy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
-###
+---
 
+<div align="center">
+  <h3>🔐 "Curiosity is the compass that guides every ethical hacker, but responsibility ensures we never lose our way." ~ davycipher</h3>
+</div>
