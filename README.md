@@ -1,83 +1,87 @@
-<h1 align="center">Hello, I'm David P.S. Abraham (aka CipherDavy) 👋</h1>
-<h3 align="center">Ethical Hacker | Bug Bounty Hunter | Cybersecurity Enthusiast</h3>
+<div align="center">
+  
+<h1>⚡ Hey, I'm <span style="color:#8A2BE2;">David (CipherDavy)</span> 👾</h1>
+
+<h3 align="center">💜 Cybersecurity Explorer | Ethical Hacker | Open-Source Builder 💜</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Ethical_Hacker-%238A2BE2.svg?style=for-the-badge&logo=Hackaday&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Security_Researcher-%238A2BE2.svg?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open_Source-%238A2BE2.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+
+</div>
+
+---
+
+## 🚀 About Me
+
+> 💻 *“Curiosity is my compass, and hacking is the language I use to explore the unknown.”*  
+
+- 🛡️ **Ethical Hacker** with multiple Hall of Fame mentions  
+- 🐛 Passionate **Bug Bounty Hunter** & vulnerability researcher  
+- 🔮 Builder of **open-source hacking tools** (automation + recon)  
+- 🧠 Thrives in the world of **purple terminals, payloads & exploits**  
+
+---
+
+## ✨ Core Focus Areas
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif?cid=ecf05e47u9i1t1go38c5yk46kdaul2jdw2tusiqk759hkflu&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
+
+| 🔐 Security Focus | Description |
+|-------------------|-------------|
+| 🛡️ Vuln Research | Deep-dive into systems, apps & infra |
+| 🐛 Bug Hunting | Chasing down real-world exploitable flaws |
+| 💻 Dev | Crafting security tools for the community |
+| ⚙️ Automation | Making security faster, smarter, scalable |
+
 </div>
 
 ---
+
+## 🔧 Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,bash,js,html,java,linux,git,docker,gcp,burpsuite,vscode,github&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/cypherdavy">
-    <img src="https://github-readme-stats.vercel.app/api?username=cypherdavy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cypherdavy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=cypherdavy&show_icons=true&theme=radical&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117" height="180px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cypherdavy&theme=radical&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" height="180px"/>
+
 </div>
 
 ---
 
+## 🌐 Connect With Me
 
-[Visit my TryHackMe profile](https://tryhackme.com/p/davycypher)
-
-
-
-### 👨‍💻 About Me
-- 🎓 **Education**: Bachelor of Computer Applications (BCA) from Bangalore North University.
-- 🌐 **Website**: [davycipher.online](https://davycipher.online)
-- 🛡️ **Founder**: [Hexploit](https://davycipher.online), a cybersecurity-focused community.
-- 🐛 **Bug Bounty Hunter**: 20+ Hall of Fame entries in October 2024.  
-- 💼 **Partner**: E-commerce Business Team.
-
----
-
-### 🏆 Achievements
-
-- 🏅 **Bug Bounties**: Hall of Fame entries with NASA, Cisco, and OLX.
-- 💡 Developed tools like **Fang** for subdomain enumeration.
-- 🛠️ Built [WatchTower](https://github.com/cypherdavy/watch_tower) for advanced automated bug bounty operations.
-- 🎯 Hosted Capture The Flag (CTF) events with innovative themes and challenges.
-- 📜 **Indian Book of Records**: Recognized for achieving 20+ Hall of Fame entries on Bugcrowd in October 2024.
-
-
-
----
-
-### 🔧 Skills & Tools
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
-</div>
-
----
-
-### 🌐 Social Links
-
-<div>
+<p align="center">
   <a href="https://linkedin.com/in/davy-cypher" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/davycipher/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://youtube.com/@Davycipher" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:davycypher@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/LinkedIn-%238A2BE2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/cypherdavy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-%238A2BE2.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</div>
+  <a href="https://tryhackme.com/p/davycypher" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-%238A2BE2.svg?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
+  <a href="mailto:davycypher@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%238A2BE2.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 <div align="center">
-  <h3>🔐 "Curiosity is the compass that guides every ethical hacker, but responsibility ensures we never lose our way." ~ davycipher</h3>
+
+⚡ *Hack the Planet, Secure the Future* ⚡
+
 </div>
